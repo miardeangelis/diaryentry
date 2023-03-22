@@ -1,10 +1,6 @@
-# Diary #1 
-
-## Menlo Park N.J. July 12, 1885
-
-Edison's Home in Menlo Park 
-
-> come back to graphic 
+.ve-header "Diary #1" https://edisondigital.rutgers.edu/iiif/MA001 "Menlo Park N.J. July 12, 1885" pct:30,30,60,40 center sticky
+    - [Home](/)
+    - [About](/about)==placeholder=={Menlo Park N.J. July 12, 1885}==placeholder=={Menlo Park N.J. July 12, 1885}[]
 
 ### Page 1
 
